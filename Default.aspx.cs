@@ -11,7 +11,7 @@ namespace ASPSolomon
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            Response.Write("Welcome to ASP Net application -- JP - Solomon");
         }
     }
 }
